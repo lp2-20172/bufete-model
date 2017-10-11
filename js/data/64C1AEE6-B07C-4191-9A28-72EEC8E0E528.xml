@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.3.6:1", "", "Requisitos", "EARoot/EA1/EA3/EA6/EA109.htm", "188.png", "13", "0", "", "Custom diagram0","{71765CB2-3D0D-4d02-97DC-B34A33ACCB78}");
+tocTab[tocTab.length] = new Array("1.3.6.1", "1", "Requisitos funcionales", "EARoot/EA1/EA3/EA6/EA113.htm", "4.png", "", "", "{720BE577-F4EB-47d6-AB4A-20404D3B374D}", "Package");
+tocTab[tocTab.length] = new Array("1.3.6.2", "1", "Requisitos no funcionales", "EARoot/EA1/EA3/EA6/EA114.htm", "4.png", "", "", "{DB25D780-9926-45a9-B075-716F2DCCEC28}", "Package");

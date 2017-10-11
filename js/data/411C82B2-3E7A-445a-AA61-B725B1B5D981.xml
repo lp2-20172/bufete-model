@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1", "1", "core app", "EARoot/EA1/EA2.htm", "4.png", "", "", "{01A08EF2-28E5-4a70-BD4E-BEB7109D33AE}", "Package");
+tocTab[tocTab.length] = new Array("1.2", "1", "django app", "EARoot/EA1/EA3.htm", "4.png", "", "", "{F1298FD2-030D-41ec-A37A-E59AFB75E532}", "Package");
+tocTab[tocTab.length] = new Array("1.3", "1", "catalogo app", "EARoot/EA1/EA4.htm", "4.png", "", "", "{4F9983EB-52BE-4fa9-A418-7B81C5811DEE}", "Package");
